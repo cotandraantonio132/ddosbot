@@ -29,4 +29,4 @@ bot.on("message", async message => {
 }
 });
 
-bot.login(config.token);
+bot.login(NzY4OTkzMDQ0MjUwMzYxODc3.X5IilA.HzGh1T4WolFhEfyGP5z3b3TG7zY);
